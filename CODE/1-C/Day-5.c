@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
-//Fill the code
+
 	int num;
 	scanf(“%d”,&num);
 	if(num > 0)

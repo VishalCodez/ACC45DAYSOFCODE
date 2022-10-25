@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-//Fill the code
+
 int num;
 cin >> num;
 if(num > 0)
