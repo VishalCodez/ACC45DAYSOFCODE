@@ -23,4 +23,4 @@ return 0;
 // Input-
 // Enter a number:255
 // Output-
-// 255 is Odd
+// 255 is Odd.

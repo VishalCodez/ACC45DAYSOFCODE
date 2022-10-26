@@ -21,4 +21,4 @@ return 0;
 // Input-
 // Enter a character:s
 // Output-
-// s is an alphabet
+// s is an alphabet.

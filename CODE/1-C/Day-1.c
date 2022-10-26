@@ -25,4 +25,4 @@ return 0;
 // Input-
 // Enter a character:M
 // Output-
-// M is Consonants
+// M is Consonants.

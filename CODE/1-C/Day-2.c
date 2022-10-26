@@ -36,4 +36,4 @@ return 0;
 // Input-
 // Input a character: U
 // Output-
-// U is Vowel
+// U is Vowel.
