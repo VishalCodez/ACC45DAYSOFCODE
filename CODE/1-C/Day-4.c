@@ -20,4 +20,4 @@ return 0;
 
 // @
 
-// Symbol.
+// Symbol
