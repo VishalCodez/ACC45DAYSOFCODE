@@ -9,7 +9,6 @@ int isPerfect(int num);
 void printPerfect(int start, int end);
 
 
-
 int main()
 {
     int start, end;
