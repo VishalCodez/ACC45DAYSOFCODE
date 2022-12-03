@@ -9,7 +9,6 @@ int isPrime(int num);
 int isArmstrong(int num);
 int isPerfect(int num);
 
-
 int main()
 {
     int num;
